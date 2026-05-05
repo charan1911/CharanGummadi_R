@@ -1,9 +1,7 @@
-import Resume from "./Pages/Resume"
+import Resume from "./Pages/Resume";
 
 function App() {
-  return (
-    <Resume/>
-  )
+  return <Resume />;
 }
 
-export default App
+export default App;
